@@ -75,6 +75,7 @@ This repo was built for my ongoing project of publishing an introductory Chinese
 |:---:|:---:|:---:|
 |唐诗文| | | 
 |张涵| | |
+|王晓文|2120182157|应用心理学|
 
 吕小康
 
